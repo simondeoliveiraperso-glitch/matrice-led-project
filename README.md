@@ -12,5 +12,5 @@ Un simulateur Python qui affiche en temps réel les pochettes d'albums de ce que
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone [https://github.com/ton-nom-utilisateur/matrice-led-project.git](https://github.com/ton-nom-utilisateur/matrice-led-project.git)
-   cd matrice-led-project
+   git clone [[https://github.com/ton-nom-utilisateur/matrice-led-project.git](https://github.com/ton-nom-utilisateur/matrice-led-project.git)
+   cd matrice-led-project](https://github.com/simondeoliveiraperso-glitch/matrice-led-project)
